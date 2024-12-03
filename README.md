@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/85f100e5-e675-4f01-974b-0a27d4716ba1)
+
+
+
+
 I'm Anne-gaelle
 Student at plateforme school
 
