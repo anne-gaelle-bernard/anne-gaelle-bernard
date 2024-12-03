@@ -1,7 +1,4 @@
-## Hi there 👋 
-
-
-I'm Anne-gaelle. I am a student at plateforme school
+## Hi there 👋 I'm Anne-gaelle. I am a student at plateforme school
 ![image](https://github.com/user-attachments/assets/122d28b3-d2d2-4129-8515-1713fb6224cc)
 
 
