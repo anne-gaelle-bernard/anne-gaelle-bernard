@@ -8,7 +8,7 @@
 I'm Anne-gaelle
 Student at plateforme school
 
- About me 
+# About me 
  __________
 
 I enjoy crafting apps, designing websites, developing software, and exploring the latest technologies.
@@ -20,7 +20,7 @@ I enjoy crafting apps, designing websites, developing software, and exploring th
 ![image](https://github.com/user-attachments/assets/f76632e9-df7b-4816-83bf-094db839bc83)
 
 
-
+______________
  
 📫 How to reach me : Send me a email at anne-gaelle.bernard@laplateforme.io 
 
