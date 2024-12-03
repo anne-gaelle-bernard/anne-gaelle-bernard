@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anne-gaelle. I am a student at plateforme school
+## Hi there 👋 I'm Anne-gaelle. 
 ![image](https://github.com/user-attachments/assets/122d28b3-d2d2-4129-8515-1713fb6224cc)
 
 
@@ -6,7 +6,7 @@
 
 # About me 
 
-I enjoy crafting apps, designing websites, developing software, and exploring the latest technologies.
+I am a student at plateforme school.I enjoy crafting apps, designing websites, developing software, and exploring the latest technologies.
 
 ⚙️ My skills
 
