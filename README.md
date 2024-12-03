@@ -5,9 +5,7 @@
 
 
 
-I'm Anne-gaelle
-
-Student at plateforme school
+I'm Anne-gaelle. I am a student at plateforme school
                                                                                                                         
 
 
