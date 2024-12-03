@@ -20,8 +20,6 @@ I enjoy crafting apps, designing websites, developing software, and exploring th
 ![image](https://github.com/user-attachments/assets/f76632e9-df7b-4816-83bf-094db839bc83)
 
 
-______________
- 
 📫 How to reach me : Send me a email at anne-gaelle.bernard@laplateforme.io 
 
 Linkedin : (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
