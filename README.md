@@ -10,8 +10,7 @@ With over 20 years of experience in the technology sector, I bring a deep passio
 
 ⚙️ My skills
 
-![image](https://github.com/user-attachments/assets/ec457bca-086f-4185-a730-2adce47ae97d)
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuTSADSe2t2aPt44tTECoQs-FuHh8UhCOxg&s
 
 
 My Skills
