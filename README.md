@@ -2,10 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/85f100e5-e675-4f01-974b-0a27d4716ba1)
 
+![image](https://github.com/user-attachments/assets/bee98078-a925-4232-a148-9f4a8d4ca78a)
 
 
 
 I'm Anne-gaelle
+
 Student at plateforme school
 
 
