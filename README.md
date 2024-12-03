@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**👋, I'm Anne-gaelle**
+** I'm Anne-gaelle**
 Student at plateforme school
 
  About me 
