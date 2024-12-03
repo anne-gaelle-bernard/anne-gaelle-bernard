@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**anne-gaelle-bernard/annHi 👋, I'm Anne-gaelle
+
+**👋, I'm Anne-gaelle**
 Student at plateforme school/ anne-gaelle-bernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
