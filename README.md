@@ -30,6 +30,9 @@ I'm a passionate futur web developer with a keen eye for detail and a love for c
 <br>
 
 
-📫 How to reach me : Send me a email at anne-gaelle.bernard@laplateforme.io 
 
-Linkedin : (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+Find me around the web 🌎:
+
+✍🏾Send me a email at anne-gaelle.bernard@laplateforme.io 
+
+💼Linkedin :https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
