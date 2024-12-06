@@ -1,14 +1,6 @@
  <h1>Hi there 👋 I'm Anne-Gaëlle </h1>
 
- 
-![image](https://github.com/user-attachments/assets/122d28b3-d2d2-4129-8515-1713fb6224cc)
 
-
-              
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
                                                                                                                         
 
 <h3>About me </h3>
