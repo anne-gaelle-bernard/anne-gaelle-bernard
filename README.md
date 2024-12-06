@@ -1,7 +1,8 @@
- <h1>Hi there 👋 I'm Anne-Gaëlle </h1>
+
+ <center><h1>Hi there 👋 I'm Anne-Gaëlle </h1></center>
 
 
-                                                                                                                        
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000" height="300">
 
 <h3>About me </h3>
 
