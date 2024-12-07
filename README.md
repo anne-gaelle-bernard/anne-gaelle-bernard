@@ -7,9 +7,9 @@ I'm a passionate futur web developer with a keen eye for detail and a love for c
 
 
 <h1 align="center">
-   <strong style="color;">Skills</strong> 
+   <strong style="color:yellow;">Skills</strong> 
 </h1>
-
+<p>
 
 
 
@@ -32,6 +32,4 @@ I'm a passionate futur web developer with a keen eye for detail and a love for c
 ✍🏾Send me a email at anne-gaelle.bernard@laplateforme.io 
 
 <h3><p align="center" <h1> 💼Linkedin :https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile <h3> </p>  
-
-
 
