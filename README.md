@@ -2,11 +2,16 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000" height="300">
 
- <h2><p align="center" <h1>  About me </p> </h2> 
+ <h1><p align="center" <h1>  About me </p> </h1> 
 I'm a passionate futur web developer with a keen eye for detail and a love for creating elegant, user-friendly digital experiences. My journey in technology is driven by curiosity and a continuous desire to learn and grow. I specialize in crafting responsive, efficient web solutions that not only look great but also deliver exceptional performance.
 
 
- <h2><p align="center" <h2> skills </p> </h2> 
+<h1 align="center">
+   <strong style="color;">Skills</strong> 
+</h1>
+
+
+
 
 <br>
 <br>
