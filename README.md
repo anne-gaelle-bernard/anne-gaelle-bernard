@@ -6,24 +6,6 @@
 I'm a passionate futur web developer with a keen eye for detail and a love for creating elegant, user-friendly digital experiences. My journey in technology is driven by curiosity and a continuous desire to learn and grow. I specialize in crafting responsive, efficient web solutions that not only look great but also deliver exceptional performance.
 
 
-<h1 align="center">
-   <strong style="color:yellow;">Skills</strong> 
-</h1>
-<p>
-
-
-
-<br>
-<br>
-<p align="center"
-
-![image](https://github.com/user-attachments/assets/123c1e1c-21b4-43c9-8d00-8516bc345051)
-![image](https://github.com/user-attachments/assets/3500f7bd-3a1d-4309-b1aa-a6f866c7cba2)
-![image](https://github.com/user-attachments/assets/f76632e9-df7b-4816-83bf-094db839bc83)
-</p>
-
-<br>
-<br>
 
 <h3><p align="center" <h1>  Find me around the web 🌎: </p> </h3> 
  <h3><p align="center" 
